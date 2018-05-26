@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: !!NoLoadWarnings
+## Notes: Less annoying
+## Author: Rainrider
+## Version: 1.0
+## X-Credits: Nevcairiel
+
+core.lua
